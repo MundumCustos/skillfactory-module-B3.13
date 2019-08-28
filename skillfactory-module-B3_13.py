@@ -131,4 +131,4 @@ def main(output=None):
 if __name__ == "__main__":
     main()
 
-    #Сам не смог написать
+    #Сам не смог решить
